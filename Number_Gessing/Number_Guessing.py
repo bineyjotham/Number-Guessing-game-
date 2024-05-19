@@ -1,6 +1,6 @@
 import random
 
-top_of_range = input("Type a number: ")
+top_of_range = input("Type a number to be the maximum range: ")
 
 if top_of_range.isdigit():
     top_of_range = int(top_of_range)
@@ -10,7 +10,6 @@ if top_of_range.isdigit():
         quit()
 
 r = random.randrange(0, top_of_range)
-print(r)
 guesses = 0
 while True:
     guesses += 1
