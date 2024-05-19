@@ -1,10 +1,5 @@
 import random
 
-# randrange excludes the upper limit
-# r = random.randrange(-5, 11)
-# print(r)
-# randint includes hte upper limit
-
 top_of_range = input("Type a number: ")
 
 if top_of_range.isdigit():
@@ -38,8 +33,3 @@ while True:
         print("The number is less than your input!")
 
 print("You got it in", guesses, "guesses")
-
-# print("You got it in " + str(guesses) + " guesses")
-# randint includes the upper limit
-# a = random.randint(-2, 11)
-# print(a)
