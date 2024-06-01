@@ -2,7 +2,7 @@
 
 Overview
 
-Number-Guession is a game where the computer piucks a numbwer and requests the user to guess the number.The user tries until the user gets the number right. The game then shows the number of times the user tries
+Number-Guession is a game where the computer piuks a number and requests the user to guess the number.The user tries until the user gets the number right. The game then shows the number of times the user tries
 
 Getting Started
 
