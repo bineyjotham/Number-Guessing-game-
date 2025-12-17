@@ -22,7 +22,6 @@ Requirements
 
 - Pycharm or any code editor
 
-Let me know if this looks good or if you'd like me to make any changes!
 
 Technical Objectives
 •	Develop a Full Stack application ready for production
